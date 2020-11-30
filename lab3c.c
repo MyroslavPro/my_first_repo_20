@@ -95,8 +95,8 @@ void main()
                   printf("Same\n");
                 }   
             free(ptr);
-
       }
         else 
          EXIT_FAILURE;
   }
+//empty 
